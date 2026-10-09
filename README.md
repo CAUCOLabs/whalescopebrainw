@@ -58,7 +58,7 @@ Electron (frontend)
 
 ### 2️⃣ Clone the repository
 ```bash
-git clone https://github.com/CAUCORASEKO/whalescope.git
+git clone https://github.com/CAUCOLabs/whalescopebrainw.git
 cd whalescope/electron
 ```
 
